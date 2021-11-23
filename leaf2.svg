@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="360">
+    <g fill="crimson" stroke="darkgreen" stroke-linecap="round">
+        <path d="m150,40 s-180,140,0,257" />
+        <path d="m150,40 s180,140,0,257" />
+    </g>
+    <g stroke="darkred" stroke-linecap="round" fill="none" stroke-width="2">
+        <line x1="150" y1="280" x2="150" y2="67" />
+        <path d="m150,270 q-20,-15,-55,-65" />
+        <path d="m150,270 q20,-15,55,-65" />
+        <path d="m150,220 q-20,-15,-60,-70" />
+        <path d="m150,220 q20,-15,60,-70" />
+        <path d="m150,170 q-20,-15,-40,-60" />
+        <path d="m150,170 q20,-15,40,-60" />
+        <path d="m150,120 q-15,-15,-25,-45" />
+        <path d="m150,120 q15,-15,25,-45" />
+    </g>
+    <line x1="150" x2="150" y1="297" y2="360" stroke="#650808" stroke-width="2" stroke-linecap="round" />
+</svg>
